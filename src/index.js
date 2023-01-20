@@ -24,7 +24,7 @@ const App = () => {
                         <Collapse href="collapseExample2">
                         <Card
                             cardTitle="Sweden"
-                            cardText="Lorem Ipsum Text 1"
+                            cardText="Lorem Ipsum Text 1222"
                             updatedTime="Last Updated 1 min ago"
                             image="https://picsum.photos/id/60/200/300" />
                         </Collapse>
